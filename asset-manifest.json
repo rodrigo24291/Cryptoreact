@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Cryptoreact/static/css/main.55fbaf8a.chunk.css",
+    "main.js": "/Cryptoreact/static/js/main.534eaf68.chunk.js",
+    "main.js.map": "/Cryptoreact/static/js/main.534eaf68.chunk.js.map",
+    "runtime-main.js": "/Cryptoreact/static/js/runtime-main.65a1fbb3.js",
+    "runtime-main.js.map": "/Cryptoreact/static/js/runtime-main.65a1fbb3.js.map",
+    "static/js/2.ef1a35e2.chunk.js": "/Cryptoreact/static/js/2.ef1a35e2.chunk.js",
+    "static/js/2.ef1a35e2.chunk.js.map": "/Cryptoreact/static/js/2.ef1a35e2.chunk.js.map",
+    "index.html": "/Cryptoreact/index.html",
+    "static/css/main.55fbaf8a.chunk.css.map": "/Cryptoreact/static/css/main.55fbaf8a.chunk.css.map",
+    "static/js/2.ef1a35e2.chunk.js.LICENSE.txt": "/Cryptoreact/static/js/2.ef1a35e2.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/Cryptoreact/static/media/cryptomonedas.51f1d2ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65a1fbb3.js",
+    "static/js/2.ef1a35e2.chunk.js",
+    "static/css/main.55fbaf8a.chunk.css",
+    "static/js/main.534eaf68.chunk.js"
+  ]
+}
